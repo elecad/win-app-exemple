@@ -1,5 +1,5 @@
 # Windows-приложение из любого сайта
-##### Шаблон для быстрого создания
+##### Шаблон для быстрого создания c помощью Electron
 
 Данный репозиторий является личным шаблоном для быстрого создания win-приложений из написаных ранее сайтов.
 Инструкция: 
@@ -20,7 +20,7 @@
 | build:setup | Файл для автоматической установки программы |
 
 # Windows application from any website
-##### Template for quick creation
+##### A template for quick creation using Electron
 
 This repository is a personal template for quickly creating win applications from previously written sites.
 Instruction manual:
